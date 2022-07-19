@@ -1,1 +1,1 @@
-"# golangTraining" 
+# golangTraining
